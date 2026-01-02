@@ -1,23 +1,22 @@
-# 👋 Hello, I'm Somemorewater!
+# Hello, I'm Somemorewater!
 
 Welcome to my corner of GitHub! I’m thrilled to share my journey with you as I explore the fascinating world of technology. Here’s a bit about me:
 
-## 🌟 About Me
+## About Me
 
-- **🔭 Interests**: 
+- **Interests**: 
   - Web Development: Creating engaging and interactive web experiences.
-  - Machine Learning: Diving into data to uncover insights and patterns.
   - Full-Stack Development: From frontend to backend, I love building complete solutions.
 
-- **🌱 Currently Learning**: 
+- **Currently Learning**: 
   - **JavaScript**: The heart of modern web development.
   - **React**: Building dynamic and responsive user interfaces.
   - **Node.js**: Bringing server-side capabilities to JavaScript.
 
-- **🤝 Looking to Collaborate On**: 
+- **Looking to Collaborate On**: 
   - Web Development Projects: Let’s build something awesome together!
 
-## 📫 Connect with Me
+## Connect with Me
 
 I’d love to hear from you! Reach out through these platforms:
 
@@ -31,10 +30,10 @@ Here’s a peek at the tools and technologies I’m working with:
 - **Languages**: JavaScript, HTML, CSS
 - **Frontend**: React, Bootstrap CSS
 
-## 🚀 Fun Fact
+## Fun Fact
 
 I **absolutely love to code**! Whether it's solving complex problems or building new features, coding keeps me excited and motivated.
 
 ---
 
-Feel free to explore my repositories and don’t hesitate to reach out if you have any interesting ideas or collaborations in mind. Happy coding! 😄
+Feel free to explore my repositories and don’t hesitate to reach out if you have any interesting ideas or collaborations in mind. Happy coding!
