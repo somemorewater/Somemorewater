@@ -2,6 +2,8 @@
 
 Welcome to my corner of GitHub! I’m thrilled to share my journey with you as I explore the fascinating world of technology. Here’s a bit about me:
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=somemorewater&theme=dark)](https://git.io/streak-stats)
+
 ## About Me
 
 - **Interests**: 
