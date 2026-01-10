@@ -1,41 +1,31 @@
-# Hello, I'm Somemorewater!
+# Hi, I’m Somemorewater
 
-Welcome to my corner of GitHub! I’m thrilled to share my journey with you as I explore the fascinating world of technology. Here’s a bit about me:
+I build things for the web and I care more about **shipping** than talking.
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=somemorewater&theme=dark)](https://git.io/streak-stats)
 
-## About Me
+## What I Do
+- Frontend-focused web developer  
+- Full-stack when the project demands it  
+- I like simple systems that scale cleanly  
 
-- **Interests**: 
-  - Web Development: Creating engaging and interactive web experiences.
-  - Full-Stack Development: From frontend to backend, I love building complete solutions.
+## Tech I Use
+- JavaScript (main weapon)  
+- React for UI  
+- Node.js for backend logic  
+- HTML, CSS, Bootstrap for structure and speed  
 
-- **Currently Learning**: 
-  - **JavaScript**: The heart of modern web development.
-  - **React**: Building dynamic and responsive user interfaces.
-  - **Node.js**: Bringing server-side capabilities to JavaScript.
+## What I’m Working On
+- Real-world web projects  
+- Improving backend architecture  
+- Writing cleaner, more maintainable code  
 
-- **Looking to Collaborate On**: 
-  - Web Development Projects: Let’s build something awesome together!
+## Open To
+- Collaborations on practical web apps  
+- Projects that solve actual problems, not just demos  
 
-## Connect with Me
+## Find Me
+- Instagram: https://www.instagram.com/somemorewater  
+- X: https://twitter.com/somemorewater  
 
-I’d love to hear from you! Reach out through these platforms:
-
-- **Instagram**: [@somemorewater](https://www.instagram.com/somemorewater)
-- **X (Twitter)**: [@somemorewater](https://twitter.com/somemorewater)
-
-## 🛠️ Skills & Technologies
-
-Here’s a peek at the tools and technologies I’m working with:
-
-- **Languages**: JavaScript, HTML, CSS
-- **Frontend**: React, Bootstrap CSS
-
-## Fun Fact
-
-I **absolutely love to code**! Whether it's solving complex problems or building new features, coding keeps me excited and motivated.
-
----
-
-Feel free to explore my repositories and don’t hesitate to reach out if you have any interesting ideas or collaborations in mind. Happy coding!
+I’m here to build, learn fast, and get better every repo.
