@@ -2,7 +2,7 @@
 
 I build things for the web and I care more about **shipping** than talking.
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=somemorewater)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
 ## What I Do
 - Frontend-focused web developer  
