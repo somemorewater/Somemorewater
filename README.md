@@ -24,8 +24,5 @@ I build things for the web and I care more about **shipping** than talking.
 - Collaborations on practical web apps  
 - Projects that solve actual problems, not just demos  
 
-## Find Me
-- Instagram: https://www.instagram.com/somemorewater  
-- X: https://twitter.com/somemorewater  
 
 I’m here to build, learn fast, and get better every repo.
