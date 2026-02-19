@@ -5,15 +5,15 @@ I build things for the web and I care more about **shipping** than talking.
 [![GitHub Streak](https://streak-stats.demolab.com?user=somemorewater&theme=cobalt&fire=EB5454)](https://git.io/streak-stats)
 
 ## What I Do
-- Frontend-focused web developer  
+- Backend-focused web developer  
 - Full-stack when the project demands it  
 - I like simple systems that scale cleanly  
 
 ## Tech I Use
 - JavaScript (main weapon)  
-- React for UI  
+- Express  
 - Node.js for backend logic  
-- HTML, CSS, Bootstrap for structure and speed  
+- HTML, CSS, Bootstrap and Tailwind for structure and speed  
 
 ## What I’m Working On
 - Real-world web projects  
