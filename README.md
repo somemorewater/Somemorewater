@@ -1,4 +1,4 @@
-# Hi, I’m Somemorewater
+# Hi, I’m Water
 
 I build things for the web and I care more about **shipping** than talking.
 
