@@ -1,6 +1,6 @@
 # Hi, I’m Water
 
-I build things for the web and I care more about **shipping** than talking.
+I build things for the web(web2 || web3) and I care more about **shipping** than talking.
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=somemorewater&theme=cobalt&fire=EB5454)](https://git.io/streak-stats)
 
