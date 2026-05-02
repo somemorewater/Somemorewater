@@ -1,4 +1,4 @@
-# Hi, I’m Water
+a# Hi, I’m Water
 
 I build things for the web(web2 || web3) and I care more about **shipping** than talking.
 
@@ -6,7 +6,8 @@ I build things for the web(web2 || web3) and I care more about **shipping** than
 
 ## What I Do
 - Backend-focused web developer  
-- Full-stack when the project demands it  
+- Full-stack when the project demands it
+- Smart contracts developer with rust
 - I like simple systems that scale cleanly  
 
 ## Tech I Use
