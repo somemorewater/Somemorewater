@@ -1,4 +1,4 @@
-a# Hi, I’m Water
+# Hi, I’m Water
 
 I build things for the web(web2 || web3) and I care more about **shipping** than talking.
 
