@@ -1,29 +1,38 @@
 # Hi, I’m Water
 
-I build things for the web(web2 || web3) and I care more about **shipping** than talking.
+I build things for the web (Web2 + Web3) and I care more about **shipping real systems** than talking.
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=somemorewater&theme=cobalt&fire=EB5454)](https://git.io/streak-stats)
 
 ## What I Do
 - Backend-focused web developer  
-- Full-stack when the project demands it
-- Smart contracts developer with rust
-- I like simple systems that scale cleanly  
+- Full-stack when the project actually needs it  
+- Smart contracts developer (Rust-based Web3 systems)  
+- I prefer simple architectures that scale without drama  
 
 ## Tech I Use
 - JavaScript (main weapon)  
-- Express  
-- Node.js for backend logic  
-- HTML, CSS, Bootstrap and Tailwind for structure and speed  
+- Node.js + Express (backend logic + APIs)  
+- HTML, CSS, Bootstrap, Tailwind (fast UI building)  
 
-## What I’m Working On
-- Real-world web projects  
-- Improving backend architecture  
-- Writing cleaner, more maintainable code  
+## Skills I’m Leveling Up
+- Rust (systems + backend performance)  
+- Distributed systems (River-style projects)  
+- Scalable backend architecture  
+- Secure auth + storage systems  
+- Smart contracts (Rust Web3 development)  
+
+## Currently Working On
+- Real-world production web apps  
+- Cleaner backend design patterns  
+- Performance-first APIs  
+- Building systems that don’t break under pressure  
 
 ## Open To
-- Collaborations on practical web apps  
-- Projects that solve actual problems, not just demos  
+- Practical, real-world collaborations  
+- Backend-heavy or full-stack systems  
+- Projects that solve actual problems (not demos for vibes)
 
+---
 
-I’m here to build, learn fast, and get better every repo.
+I build, I break, I optimize, I repeat.
