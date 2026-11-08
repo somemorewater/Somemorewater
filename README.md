@@ -1,5 +1,7 @@
 # Hi, I’m Water
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=somemorewater&theme=github">
+
 I build things for the web (Web2 + Web3) and I care more about **shipping real systems** than talking.
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=somemorewater&theme=cobalt&fire=EB5454)](https://git.io/streak-stats)
