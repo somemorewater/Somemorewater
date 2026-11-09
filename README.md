@@ -68,7 +68,7 @@ I care about understanding how things work underneath, writing maintainable soft
 
 - **[StudyGee](https://studygee.com.ng)** — Building an academic platform with a Rust-powered backend, PostgreSQL, Redis, and AI-assisted learning.
 - **[River](https://riverstore.vercel.app)** — Developing a Redis-inspired key-value database in Rust, with networking, TTL support, and a RESP-based protocol.
-- **Wave VM** — Building an open-source desktop virtualization application using Tauri, Rust, and QEMU.
+- **[Wave VM](https://wavevm.vercel.app/)** — Building an open-source desktop virtualization application using Tauri, Rust, and QEMU.
 
 ## What I'm Exploring
 
